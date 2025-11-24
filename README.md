@@ -1,4 +1,4 @@
-🔴 For the “amazing image”, I’ve added a placeholder. Just put a nice screenshot/banner in your img folder (for example img/readme-banner.png) and it will show in GitHub.
+
 
 # 🚴 Pure Cycle – Bike Store Landing Page
 
